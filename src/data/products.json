@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1753537550293",
+    "status": true,
+    "title": "Remera negra",
+    "description": "Remera de color negro. 100% algodón. Talle M.",
+    "code": "REM001",
+    "price": 14000,
+    "stock": 5,
+    "category": "ropa",
+    "thumbnails": [
+      "img/remera1.png"
+    ]
+  },
+  {
+    "id": "1753537802460",
+    "status": true,
+    "title": "Hoodie oversize negro TL",
+    "description": "Buzo hoodie oversize TL de color verde lima. 100% algodón.",
+    "code": "HOODIETLN",
+    "price": 40000,
+    "stock": 12,
+    "category": "ropa",
+    "thumbnails": [
+      "img/buzohoddietln.png"
+    ]
+  }
+]

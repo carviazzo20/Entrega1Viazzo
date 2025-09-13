@@ -24,5 +24,35 @@
     "thumbnails": [
       "img/buzohoddietln.png"
     ]
+  },
+  {
+    "id": "1757733975950",
+    "status": true,
+    "title": "Remera azul",
+    "description": "Remera de color azul. 100% algodón. Talle S",
+    "code": "remazul2025",
+    "price": 14000,
+    "stock": 5,
+    "category": "Remeras"
+  },
+  {
+    "id": "1757734157051",
+    "status": true,
+    "title": "Campera negra",
+    "description": "Campera Negra Frisa Talle S",
+    "code": "CAMP20002",
+    "price": 58000,
+    "stock": 2,
+    "category": "Camperas"
+  },
+  {
+    "id": "1757734470482",
+    "status": true,
+    "title": "Remera roja\t",
+    "description": "Remera de color rojo. 100% algodón. Talle M.",
+    "code": "REM205",
+    "price": 14000,
+    "stock": 85,
+    "category": "Remeras"
   }
 ]
